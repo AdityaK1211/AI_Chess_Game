@@ -5,6 +5,8 @@ It is a simple chess algorithm with alpha-beta pruning and board evaluation with
 
 <b>Alpha Go built by Google Deepmind</b> gives detailed working. Click <a href='AlphaGoNaturePaper.pdf'>here</a> to see the research paper.
 
+Play the game at https://adityak1211.github.io/AI_Chess_Game/index.html
+
 ## Reference
 https://deepmind.com/research/case-studies/alphago-the-story-so-far
 
